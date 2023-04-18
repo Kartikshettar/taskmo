@@ -1,0 +1,13 @@
+.Login_Img{
+    width: 412px;
+    height: 230px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 100%;
+}
+
+@media (min-width:320px) and (max-width:480px) {
+    .Login_Img{
+        width: 360px;
+        height: 230px;
+    }
+}
